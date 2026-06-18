@@ -86,17 +86,17 @@ body {
     z-index: 1;
 }
 
-/* Section Quote / Akad & Elshinta (Foto 093 Full & Statis) */
+/* Section Quote / Akad & Elshinta (Foto 093 Full & Statis dari Folder img) */
 .section-quote-bg {
     position: relative;
-    background: url('DSC00093.jpg') no-repeat center center;
+    background: url('img/DSC00093.jpg') no-repeat center center;
     background-size: cover;
 }
 
-/* Section Kedua Mempelai (Foto 237 Full & Statis) */
+/* Section Kedua Mempelai (Foto 237 Full & Statis dari Folder img) */
 .section-mempelai-bg {
     position: relative;
-    background: url('DSC00237.jpg') no-repeat center center;
+    background: url('img/DSC00237.jpg') no-repeat center center;
     background-size: cover;
 }
 
